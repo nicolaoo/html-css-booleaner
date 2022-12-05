@@ -6,26 +6,12 @@
 
 .pattern{
     height: 80px;
+    width: 800px;;
 }
 
 .logo{
     height: 40px;
     float: left;
-    padding-top: 30px;
-    padding-left: 50px;
-}
-
-.corpo-centrale{
-    text-align: justify;
-    padding-left: 80px;
-    padding-right: 180px;
-    
-}
-
-footer{
-    text-align: justify;
-    padding-left: 80px;
-    padding-right: 180px;
 }
 
 .sotto-titolo{
@@ -40,6 +26,38 @@ footer{
     color: dimgrey;
 }
 
-span{
+.giallo{
     background-color: yellow;
 }
+
+.monitor{
+    
+    background-image: url("img/monitor.jpg");
+    height: 300px;
+    width: 400px;
+    background-size: cover;
+}
+
+
+.graph{
+    background-image: url("img/graph.jpg");
+    height: 300px;
+    width: 400px;
+    background-size: cover;
+}
+
+#blu{
+    color: rgb(78,160,255);
+}
+
+table{
+    border-color: black;
+}
+
+h3{
+    color: white;
+    font-size: x-large;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
