@@ -14,3 +14,32 @@
     padding-top: 30px;
     padding-left: 50px;
 }
+
+.corpo-centrale{
+    text-align: justify;
+    padding-left: 80px;
+    padding-right: 180px;
+    
+}
+
+footer{
+    text-align: justify;
+    padding-left: 80px;
+    padding-right: 180px;
+}
+
+.sotto-titolo{
+    color: rgb(131, 131, 131)
+}
+
+.descrizione-immagine{
+    font-size:smaller;
+}
+
+.fine-paragrafo{
+    color: dimgrey;
+}
+
+span{
+    background-color: yellow;
+}
