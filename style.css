@@ -1,3 +1,16 @@
 .header{
     background-color: rgb(78,160,255);
+    text-align: center;
+    height: 80px;
+}
+
+.pattern{
+    height: 80px;
+}
+
+.logo{
+    height: 40px;
+    float: left;
+    padding-top: 30px;
+    padding-left: 50px;
 }
